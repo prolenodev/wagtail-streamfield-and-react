@@ -9,4 +9,4 @@ In this post, I will walk through how I find my way around using Wagtail StreamF
 My aim is to display the body streamfield filled with paragraphs, images, etc.  in React.
 This means the data (the paragraphs, images in body streamfield) has to be exposed over Wagtail v2 API and then consumed by React.
 
-![wagtail-streamfield-fancy-editor](./wagtail-streamfield-fancy-editor)
+![wagtail-streamfield-fancy-editor](./wagtail-streamfield-fancy-editor.gif)
